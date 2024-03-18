@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "karim",
+      "course": "c#",
+      "email": "karim@gmail.com",
+      "phone": "54545454",
+      "address": "giza"
+    }
+  ]
+}
